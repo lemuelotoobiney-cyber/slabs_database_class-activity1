@@ -30,5 +30,6 @@ Google Chrome
  visited a university webisite 5 times during the month April.
 
  The system transformation in chrome stores and sorts the website vists from
- users like browsing history.
+ users like browsing history, this helps users decide which website helps in 
+ their work or assignment.
 
